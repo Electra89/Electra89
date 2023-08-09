@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreyas Mhatre</h1>
+
+<h1 align="center"><b>Hi, I'm Shreyas Mhatre</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">An AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electra89&label=Profile%20views&color=0e75b6&style=flat" alt="electra89" /> </p>
