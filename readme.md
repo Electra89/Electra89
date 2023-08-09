@@ -9,7 +9,7 @@
 
   <a href="https://open.spotify.com/user/woi2cx9y8f5is0z9x9c3jyeji?si=b1Jm-EtETnaxUum4jTniWw&utm_source=copy-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
 
-  <a href="https://discord.gg/electra8998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="electra8998" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/596745445716525056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="electra8998" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
