@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>, I'm Shreyas Mhatre</b></h1>
 
-<h3 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&pause=1000&color=29D8E9&center=true&width=435&lines=An+AI+enthusiast" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=20CAE9&center=true&width=435&lines=An+AI+enthusiast" alt="Typing SVG" /></a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electra89&label=Profile%20views&color=0e75b6&style=flat" alt="electra89" /> </p>
 
