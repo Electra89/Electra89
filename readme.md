@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Mhatre</h1>
 <h3 align="center">An AI enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=electra89&label=Profile%20views&color=23FFD4&style=flat" alt="electra89" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=electra89&label=Profile%20views&color=F09005&style=flat" alt="electra89" /> </p>
 
 
 </p>
