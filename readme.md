@@ -13,20 +13,18 @@
 
 
 
- <div style="text-align: right;">
+<div style="text-align: right;">
     <a href="https://open.spotify.com/user/woi2cx9y8f5is0z9x9c3jyeji?si=b1Jm-EtETnaxUum4jTniWw&utm_source=copy-link" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" />
     </a>
-    <a href="https://github.com/kittinan/spotify-github-profile" target="blank">
-  <img align="right"
-    src="[https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default](https://spotify-github-profile.vercel.app/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
-    alt="spotify" />
-</a>
-   
 </div>
+<a href="[https://github.com/kittinan/spotify-github-profile" target="blank](https://spotify-github-profile.vercel.app/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&redirect=true)">
+  <img align="right"
+    src="[https://spotify-github-profile.vercel.app/api/view?uid=214zuzj6g7ndx46cmed74tymq&cover_image=true&theme=default"
+    alt="spotify](https://spotify-github-profile.vercel.app/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)" />
+</a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
+   
                                                                                                                                     
  
 
