@@ -12,6 +12,7 @@
 <p align="left">
 
   <a href="https://open.spotify.com/user/woi2cx9y8f5is0z9x9c3jyeji?si=b1Jm-EtETnaxUum4jTniWw&utm_source=copy-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
   <a href="https://discordapp.com/users/596745445716525056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="electra8998" height="30" width="40" /></a>
 </p>
