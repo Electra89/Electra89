@@ -3,8 +3,9 @@
 
 
 <p>
-  <h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=850&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG"</i></b></h4>
+  <h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=850&lines=An+AI+enthusiast" alt="Typing SVG""</i></b></h4>
 </p>
+   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electra89&label=Profile%20views&color=0e75b6&style=flat" alt="electra89" /> </p>
 
 <h3 align="left">Connect with me:</h3>
