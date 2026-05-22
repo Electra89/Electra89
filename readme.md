@@ -22,36 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div align="center">
-  <div
-    style="
-      display: flex;
-      align-items: center;
-      justify-content: flex-start;
-      gap: 40px;
-      flex-wrap: wrap;
-    "
-  >
-    <!-- Spotify Icon -->
-    <a
-      href="https://open.spotify.com/user/woi2cx9y8f5is0z9x9c3jyeji?si=b1Jm-EtETnaxUum4jTniWw&utm_source=copy-link"
-      target="_blank"
-    >
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
-        alt="Spotify"
-        height="30"
-        width="40"
-      />
-    </a>
+<div style="display:flex; align-items:center; justify-content:flex-start; gap:40px; flex-wrap:wrap;">
 
-  
- 
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
+  <a href="https://open.spotify.com/user/woi2cx9y8f5is0z9x9c3jyeji?si=b1Jm-EtETnaxUum4jTniWw&utm_source=copy-link" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" />
   </a>
 
-  </div>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify Profile" height="80" />
+  </a>
+
 </div>
   <!-- Discord -->
   <a
