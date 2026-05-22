@@ -22,7 +22,27 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display:flex; align-items:center; justify-content:flex-start; gap:40px; flex-wrap:wrap;">
+<div style="display: flex; align-items: center; gap: 40px; flex-wrap: wrap;">
+
+  <a href="https://open.spotify.com/user/woi2cx9y8f5is0z9x9c3jyeji?si=b1Jm-EtETnaxUum4jTniWw&utm_source=copy-link" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg"
+      alt="spotify"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+    <img
+      align="center"
+      src="https://spotify-github-profile.vercel.app/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
+      alt="Spotify"
+    />
+  </a>
+
+</div><div style="display:flex; align-items:center; justify-content:flex-start; gap:40px; flex-wrap:wrap;">
 
   <a href="https://open.spotify.com/user/woi2cx9y8f5is0z9x9c3jyeji?si=b1Jm-EtETnaxUum4jTniWw&utm_source=copy-link" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" height="30" width="40" />
