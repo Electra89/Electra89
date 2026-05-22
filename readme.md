@@ -28,7 +28,7 @@
   </a>
 
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify Profile" height="70" />
+    <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=woi2cx9y8f5is0z9x9c3jyeji&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify Profile" height="100" />
   </a>
 
   </div>
@@ -36,18 +36,7 @@
 
 
   <!-- Discord -->
-  <a
-    href="https://discordapp.com/users/596745445716525056"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Discord"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
+  <a href="https://discordapp.com/users/596745445716525056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="electra8998" height="30" width="40" /></a> </p>
 
 
 
